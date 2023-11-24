@@ -27,4 +27,4 @@ opencv
 [파이썬아두이노](https://studymake.tistory.com/727)
 
 # 결과 영상
-.[인스타그램](https://www.instagram.com/reel/CoZEY3Zudqo/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+[인스타그램](https://www.instagram.com/reel/CoZEY3Zudqo/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
